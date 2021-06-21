@@ -1,1 +1,1 @@
-scala
+val x= 10
